@@ -1,6 +1,6 @@
-#include <>[Diostream>
+#include <iostream>
 using namespace std;
 int main(){
-	cout << ""[DHui";
+	cout << "Hui";
 	return 0;
 }
